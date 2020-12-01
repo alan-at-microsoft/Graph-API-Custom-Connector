@@ -199,4 +199,3 @@ GetScopeString = (scopes as list, optional scopePrefix as text) as text =>
         asText = Text.Combine(addPrefix, " ")
     in
         asText;
-
